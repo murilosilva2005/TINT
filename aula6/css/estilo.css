@@ -1,0 +1,20 @@
+.quadrado1{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    float: left;
+}
+
+.quadrado2{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(51, 214, 10);
+    float: left;
+}
+
+.quadrado3{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(16, 20, 223);
+    float: left;
+}

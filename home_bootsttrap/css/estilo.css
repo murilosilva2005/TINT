@@ -1,0 +1,28 @@
+nav{
+    background-color: #2db5c4
+}
+
+.carousel-caption{
+    margin-bottom: 59px;
+}
+
+.row h4{
+    width: 95%;
+}
+
+.conteudo h4{
+    text-align: center;
+}
+
+.conteudo{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.btn{
+    background-color:royalblue
+}
+
+.card{
+    margin:50px;
+}

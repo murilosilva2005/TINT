@@ -1,0 +1,17 @@
+.quadrado1{
+    width:200px;
+    height:200px;
+    background-color: green
+}
+
+.quadrado2 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.quadrado3 {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}

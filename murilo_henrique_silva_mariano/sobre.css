@@ -1,0 +1,108 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-family: 'calibri',helvetica, arial;
+}
+
+header{
+    width: 100% ;
+    position: fixed;
+    
+
+}
+
+/* ##### MENU ##### */
+
+
+nav{
+background-color: #e28f2e;
+font-size: 19px;
+height: 70px;
+}
+
+nav ul{
+    list-style: none;
+}
+
+nav ul li{
+    float: left;
+    margin-left: 15px;
+    padding: 5px 10px;
+    color: white;
+    font-weight: bold;
+    line-height: 3.15; 
+
+}
+
+nav ul .BOTAO:hover{ /* o hover aplica uma ação quando passamos o mouse em cima do botão */
+    background-color: rgb(255, 255, 255,0.2);
+
+}
+
+.menuimg{
+    float: left ;
+    margin: 10px 20px 25px 15px;
+    
+}
+
+/* #### CONTEÚDO PRINCIPAL #### */
+
+main{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    overflow: hidden;
+    }
+
+    #banner{
+        margin-top: 70px;
+    }
+
+   .textohome{
+    text-align: justify;
+    margin-bottom: 20px;
+    
+   }
+
+   .fotoshome{
+    width: 50%;
+    float: left;
+    margin-top: 20px;
+    text-align: center;
+
+   }
+
+   /* #### FOOTER #### */
+
+   footer{
+    width: 100%;
+    background-color: #e28f2e;
+    text-align:center;
+    color: white;
+    padding: 70px 0 ;
+
+   }
+
+/* #### SOBRE #### */
+
+.fotossobre{
+    width: 20%;
+    float: left;
+    height: 160px;
+}
+
+.textosobre{
+    width: 80%;
+    float: left;
+    height: 160px;
+    text-align: justify;
+}
+    
+
+        
+        
+
+  

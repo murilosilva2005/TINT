@@ -1,0 +1,64 @@
+/*#### MENU #### */
+
+nav{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 70px;
+    font-family: 'Calibri', Helvetica;
+}
+
+nav ul{
+    text-align: center;
+
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav a{
+    padding: 10px 40px;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+}
+
+nav a:hover{
+    color:blue;
+}
+
+/* #### CONTEUDO #### */ 
+
+main{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 62px;
+}
+
+#caixa1{
+    width: 1000px;
+    height: 400px;
+    background-color: blue;
+}
+
+#caixa2{
+    width: 1000px;
+    height: 400px;
+    background-color: orange;
+}
+
+#caixa3{
+    width: 1000px;
+    height: 400px;
+    background-color:red;
+}
+
+#caixa4{
+    width: 1000px;
+    height: 400px;
+    background-color: black;
+}
